@@ -1,0 +1,35 @@
+.tarjeta{
+    width: 500px;
+    height: 500px;
+}
+
+.encabezado{
+    background-color: #09bebe;
+    height: 100px;
+    position: relative;
+}
+
+.usuario{
+    position: absolute;
+    width: 85px;
+    top: 55px;
+    left: 20px;
+    border-radius: 50%;
+    padding: 2px;
+    border-color: #e8e8e8;
+    border-style: solid;
+}
+
+.cuerpo{
+    padding: 30px;
+    border: 2px solid #e8e8e8;
+}
+
+.iconos{
+    width: 13px;
+    margin-right: 10px;
+}
+
+.ubicacion{
+    margin-bottom: 10px;
+}
